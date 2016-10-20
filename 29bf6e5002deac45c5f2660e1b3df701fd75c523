@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_466a49ee",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1009642
+      },
+      "writtenOn": "2016-10-20T10:18:50Z",
+      "side": 1,
+      "message": "Please edit it",
+      "range": {
+        "startLine": 1,
+        "startChar": 16,
+        "endLine": 1,
+        "endChar": 22
+      },
+      "revId": "29bf6e5002deac45c5f2660e1b3df701fd75c523",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
